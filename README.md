@@ -6,5 +6,14 @@
 1，LeetCode 21.Merge Two Sorted Lists  
 2，LeetCode 23.Merge k Sorted Lists(solve1)  
 3，LeetCode 23.Merge k Sorted Lists(solve2)  
-4，LeetCode 86.Partition List  
-5，LeetCode 92. Reverse Linked List II  
+4，LeetCode 86.Partition List    
+5，LeetCode 92. Reverse Linked List II    
+7，LeetCode 138.Copy List with Random Pointer    
+8，LeetCode 142. Linked List Cycle II(set方法)    
+9，LeetCode 142. Linked List Cycle II(快慢指针法)  
+10，LeetCode 160.Intersection of Two LinkedLists(set方法)  
+11，LeetCode 160.Intersection of Two LinkedLists(快慢指针法)  
+12，LeetCode 206. Reverse Linked List(递归)  
+13，LeetCode 206. Reverse Linked List（迭代）  
+第二部分（栈、队列、堆）：  
+
