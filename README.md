@@ -15,7 +15,7 @@
 10,LeetCode 160.Intersection of Two LinkedLists(快慢指针法)  
 11,LeetCode 206. Reverse Linked List(递归)  
 12,LeetCode 206. Reverse Linked List（迭代）  
-第二部分（栈、队列、堆）：
+第二部分（栈、队列、堆）：  
 1,STL_stack    
 2,STL_queue  
 3,STL_priority_queue  
@@ -26,4 +26,6 @@
 8,LeetCode 232.Implement Queue using Stacks (adjust)  
 9,LeetCode 232.Implement Queue using Stacks(push)  
 10,LeetCode 295.Find Median from Data Stream  最大堆+最小堆  
+第三部分(贪心算法)：
+
 
