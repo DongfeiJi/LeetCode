@@ -11,6 +11,7 @@
 6.  链表重新构造(LeetCode 86. Partition List)   
 7.  复杂的链表复制(LeetCode 138. Copy List with Random Pointer)  
 8.  排序链表合并(2个与多个) (LeetCode 21,23 Merge Two(k) Sorted ListsLeetCode)  
+
 第二部分（栈、队列、堆）：  
 1.  栈、队列知识要点与实现(数组、链表)  
 2.  使用队列实现栈(LeetCode 232. Implement Queue using Stacks)  
@@ -20,6 +21,7 @@
 6.  堆(优先级队列)知识要点与实现  
 7.  数组中第K大的数(堆的应用) (LeetCode 215. Kth Largest Element in an Array)  
 8.  寻找中位数(堆的应用)( LeetCode 295 Find Median from Data Stream)  
+
 第三部分（贪心）：  
 1.  贪心算法知识要点，刷题必备的STL知识  
 2.  贪心题目1(LeetCode 455. Assign Cookies)  
@@ -28,6 +30,7 @@
 5.  贪心题目4(LeetCode 135. Candy)  
 6.  贪心题目5(LeetCode 502. IPO)  
 7.  贪心题目6(LeetCode 321. Create Maximum Number)  
+
 第四部分（递归、分制、回溯）：     
 1.  递归的知识要点，回溯算法  
 2.  生成组合数(LeetCode 39. Combination Sum, LeetCode 40. Combination Sum II)  
@@ -37,6 +40,7 @@
 6.  快速排序算法与经典实现  
 7.  不同的加括号方法(LeetCode 241. Different Ways to Add Parentheses)  
 8.  两个数组的中位数(LeetCode 4. Median of Two Sorted Arrays)  
+
 第五部分（树与图）  
 1.  树与图的数据结构与基本算法  
 2.  树遍历的回调函数实现，并使用自动机概念实现非递归树前、中、后遍历  
@@ -46,6 +50,7 @@
 6.  树的改造(LeetCode 117. Populating Next Right Pointers in Each Node 1,2)  
 7.  图的复制(LeetCode 133. Clone Graph)  
 8.  图的搜索与应用(LeetCode 207.Course Schedule)  
+
 第六部分（二分查找、二叉排序树、位运算的应用）：  
 1.  二分查找、二叉排序树的知识要点  
 2.  数组的二分查找(LeetCode 33,81 Search in Rotated Sorted Array 1,2)  
@@ -56,6 +61,7 @@
 7.  位运算的知识要点  
 8.  使用位运算表示集合(LeetCode 78. Subsets)  
 9.  位运算应用题目(LeetCode 136,137,260. Single Number1,2,3)  
+
 第七部分（哈希表与字符串）：  
 1.  哈希表与字符串知识要点  
 2.  哈希题目 (LeetCode 290. Word Pattern)  
@@ -64,6 +70,7 @@
 5.  哈希与字符串综合 (LeetCode 30. Substring with Concatenation of All Words)  
 6.  字符串题目 (LeetCode 459. Repeated Substring Pattern)  
 7.  字符串题目 (LeetCode 468. Validate IP Address)  
+
 第八部分（搜索）：  
 1.  待更新
 
