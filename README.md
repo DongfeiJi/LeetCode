@@ -28,7 +28,6 @@
 5.  贪心题目4(LeetCode 135. Candy)  
 6.  贪心题目5(LeetCode 502. IPO)  
 7.  贪心题目6(LeetCode 321. Create Maximum Number)  
-8.  贪心题目7(codeforces 582A GCD Table)  
 第四部分（递归、分制、回溯）：     
 1.  递归的知识要点，回溯算法  
 2.  生成组合数(LeetCode 39. Combination Sum, LeetCode 40. Combination Sum II)  
