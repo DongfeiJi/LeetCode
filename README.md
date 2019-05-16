@@ -3,43 +3,50 @@
 有不懂的可以联系ji648513181，同时也欢迎志同道合的朋友一起合作更新。      
 大纲：   
 第一部分（链表）：  
-1.  链表的必备知识要点(包括基础知识、刷题中使用的STL等知识)  
-2.  链表逆序(LeetCode 92,206. Reverse Linked List 1,2)  
-3.  求两个链表的交点(LeetCode 160. Intersection of Two Linked Lists)  
-4.  链表的节点交换(LeetCode 24. Swap Nodes in Pairs)  
-5.  链表求环(LeetCode 141,142. Linked List Cycle 1,2)  
-6.  链表重新构造(LeetCode 86. Partition List)   
-7.  复杂的链表复制(LeetCode 138. Copy List with Random Pointer)  
-8.  排序链表合并(2个与多个) (LeetCode 21,23 Merge Two(k) Sorted ListsLeetCode)  
+1.  LeetCode 21.Merge Two Sorted Lists  
+2.  LeetCode 23.Merge k Sorted Lists(solve1)  
+3.  LeetCode 23.Merge k Sorted Lists(solve2)  
+4.  LeetCode 86.Partition List   
+5.  LeetCode 92.Reverse Linked List II   
+6.  LeetCode 138.Copy List with Random Pointer    
+7.  LeetCode 142.Linked List Cycle II(solve1)     
+8.  LeetCode 142.Linked List Cycle II(solve2)      
+9.  LeetCode 160.Intersection of Two LinkedLists(solve1)  
+10. LeetCode 160.Intersection of Two LinkedLists(solve2)  
+11. LeetCode 206.Reverse Linked List(递归)  
+12. LeetCode 206.Reverse Linked List（迭代）  
 
 第二部分（栈、队列、堆）：  
-1.  栈、队列知识要点与实现(数组、链表)  
-2.  使用队列实现栈(LeetCode 232. Implement Queue using Stacks)  
-3.  使用栈实现队列(LeetCode 225. Implement Stack using Queues)  
-4.  包含min函数的栈(LeetCode 155. Min Stack)  
-5.  简单的计算器(栈的应用)( LeetCode 224. Basic Calculator)  
-6.  堆(优先级队列)知识要点与实现  
-7.  数组中第K大的数(堆的应用) (LeetCode 215. Kth Largest Element in an Array)  
-8.  寻找中位数(堆的应用)( LeetCode 295 Find Median from Data Stream)  
+1.  STL_stack  
+2.  STL_queue    
+3.  STL_priority_queue  
+4.  LeetCode 155.MinStack    
+5.  LeetCode 215.Kth Largest Element in an Array   
+6.  LeetCode 224.Basic Calculator   
+7.  LeetCode 225.Implement Stack using Queues    
+8.  LeetCode 232.Implement Queue using Stacks (adjust)  
+9.  LeetCode 232.Implement Queue using Stacks(push)
+10. LeetCode 295.Find Median from Data Stream
 
 第三部分（贪心）：  
-1.  贪心算法知识要点，刷题必备的STL知识  
-2.  贪心题目1(LeetCode 455. Assign Cookies)  
-3.  贪心题目2(LeetCode 402. Remove K Digits)  
-4.  贪心题目3(LeetCode 134. Gas Station)  
-5.  贪心题目4(LeetCode 135. Candy)  
-6.  贪心题目5(LeetCode 502. IPO)  
-7.  贪心题目6(LeetCode 321. Create Maximum Number)  
+1.  LeetCode 45.Jump Game II    
+2.  LeetCode 55.Jump Game    
+3.  LeetCode 376.Wiggle Subsequence (暴力法)    
+4.  LeetCode 376.Wiggle Subsequence    
+5.  LeetCode 402.Remove K Digits    
+6.  LeetCode 452.Minimum Number of Arrows to Burst Balloons （二维数组）    
+7.  LeetCode 452.Minimum Number of Arrows to Burst Balloons（pair）   
+8.  LeetCode 455.Assign Cookies  
 
 第四部分（递归、分制、回溯）：     
-1.  递归的知识要点，回溯算法  
-2.  生成组合数(LeetCode 39. Combination Sum, LeetCode 40. Combination Sum II)  
-3.  生成排列数(LeetCode 46. Permutations, LeetCode 47. Permutations II)  
-4.  N皇后问题(LeetCode 51. N-Queens, LeetCode 52. N-Queens II)  
-5.  分制算法知识要点  
-6.  快速排序算法与经典实现  
-7.  不同的加括号方法(LeetCode 241. Different Ways to Add Parentheses)  
-8.  两个数组的中位数(LeetCode 4. Median of Two Sorted Arrays)  
+1.  LeetCode 78.Subsets （回溯）  
+2.  LeetCode 78.Subsets （位运算）  
+3.  LeetCode 90.Subsets II（回溯）  
+4.  LeetCode 315.Count of Smaller Numbers After Self     
+5.  LeetCode 40.Combination Sum II（回溯+剪枝）    
+6.  LeetCode 22.Generate Parentheses （递归）    
+7.  LeetCode 51.N-Queens（回溯）  
+
 
 第五部分（树与图）  
 1.  树与图的数据结构与基本算法  
