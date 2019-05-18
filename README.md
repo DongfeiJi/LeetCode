@@ -65,15 +65,17 @@
 14. LeetCode 236.Lowest Common Ancestor of a Binary Tree  
 
 第六部分（二分查找、二叉排序树、位运算的应用）：  
-1.  二分查找、二叉排序树的知识要点  
-2.  数组的二分查找(LeetCode 33,81 Search in Rotated Sorted Array 1,2)  
-3.  区间二分查找(LeetCode 34. Search for a Range)  
-4.  排序链表转换为二叉排序树(LeetCode 109. Convert Sorted List to B- Search Tree)  
-5.  二叉排序树的遍历与改造(LeetCode 538 Convert BST to Greater Tree)  
-6.  二叉排序树中的第K大的数(LeetCode 230. Kth Smallest Element in a BST)  
-7.  位运算的知识要点  
-8.  使用位运算表示集合(LeetCode 78. Subsets)  
-9.  位运算应用题目(LeetCode 136,137,260. Single Number1,2,3)  
+1.  自备_将字符串拆分为整数    
+2.  自备_二分查找(循环)    
+3.  自备_二分查找(递归)    
+4.  自备_二叉查找树的插入   
+5.  自备_二叉查找树查找数值    
+6.  自备_二叉查找树的插入+打印+收集节点复原    
+7.  LeetCode 33.Search in Rotated Sorted Array    
+8.  LeetCode 34.Search for a Range    
+9.  LeetCode 35.Search Insert Position  
+10. LeetCode 315.Count of Smaller Numbers After Self
+11. LeetCode 449.Serialize and Deserialize BST
 
 第七部分（哈希表与字符串）：  
 1.  哈希表与字符串知识要点  
@@ -82,7 +84,7 @@
 4.  哈希与字符串综合 (LeetCode 76. Minimum Window Substring)  
 5.  哈希与字符串综合 (LeetCode 30. Substring with Concatenation of All Words)  
 6.  字符串题目 (LeetCode 459. Repeated Substring Pattern)  
-7.  字符串题目 (LeetCode 468. Validate IP Address)  
+7.  字符串题目 (LeetCode 468. Validate IP Address)   
 
 第八部分（搜索）：  
 1.  待更新
