@@ -48,15 +48,21 @@
 7.  LeetCode 51.N-Queens（回溯）  
 
 
-第五部分（树与图）  
-1.  树与图的数据结构与基本算法  
-2.  树遍历的回调函数实现，并使用自动机概念实现非递归树前、中、后遍历  
-3.  树与链表的转换(LeetCode 114. Flatten Binary Tree to Linked List)  
-4.  最近的公共祖先(LeetCode 236. Lowest Common Ancestor of a Binary Tree)  
-5.  树的层次遍历应用(LeetCode 199. Binary Tree Right Side View)  
-6.  树的改造(LeetCode 117. Populating Next Right Pointers in Each Node 1,2)  
-7.  图的复制(LeetCode 133. Clone Graph)  
-8.  图的搜索与应用(LeetCode 207.Course Schedule)  
+第五部分（二叉树、图）：    
+1.  自备_二叉树定义    
+2.  自备_二叉树深度遍历   
+3.  自备_二叉树层次遍历   
+4.  自备_图的表示(临接矩阵)    
+5.  自备_图的表示(临接表)    
+6.  自备_图的深度优先遍历   
+7.  自备_图的宽度优先遍历  
+8.  LeetCode 113.Path Sum II  
+9.  LeetCode 114.Flatten Binary Tree to Linked List(solve1)  
+10. LeetCode 114.Flatten Binary Tree to Linked List(solve2)  
+11. LeetCode 199.Binary Tree Right Side View  
+12. LeetCode 207.Course Schedule(BFS版本)  
+13. LeetCode 207.Course Schedule(DFS版本)   
+14. LeetCode 236.Lowest Common Ancestor of a Binary Tree  
 
 第六部分（二分查找、二叉排序树、位运算的应用）：  
 1.  二分查找、二叉排序树的知识要点  
