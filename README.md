@@ -78,14 +78,28 @@
 11. LeetCode 449.Serialize and Deserialize BST
 
 第七部分（哈希表与字符串）：  
-1.  哈希表与字符串知识要点  
-2.  哈希题目 (LeetCode 290. Word Pattern)  
-3.  哈希与字符串综合 (LeetCode 3.Longest Substring Without Repeating Characters)  
-4.  哈希与字符串综合 (LeetCode 76. Minimum Window Substring)  
-5.  哈希与字符串综合 (LeetCode 30. Substring with Concatenation of All Words)  
-6.  字符串题目 (LeetCode 459. Repeated Substring Pattern)  
-7.  字符串题目 (LeetCode 468. Validate IP Address)   
+1.  自备_STL_map     
+2.  自备_哈希函数   
+3.  自备_字符哈希   
+4.  自备_哈希表排序整数    
+5.  自备_哈希表(拉链法)    
+6.  LeetCode 409.Longest Palindrome   
+7.  LeetCode 290.Word Pattern   
+8.  LeetCode 187.Repeated DNA Sequences(o10N)  
+9.  LeetCode 187.Repeated DNA Sequences(编码法oN)  
+10. LeetCode 3.Longest Substring Without Repeating Characters  
+11. LeetCode 49.Group Anagrams(排序strs作为key)  
+12. LeetCode 49.Group Anagrams(0ne-hot作为key)  
+13. LeetCode 76 判断s和t窗口是否ok   
+14. LeetCode 76. Minimum Window Substring   
 
-第八部分（搜索）：  
-1.  待更新
+第八部分（搜索）：   
+1.       
+2.     
+3.     
+4.      
+5.      
+ 
+
+
 
