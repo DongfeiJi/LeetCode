@@ -94,12 +94,15 @@
 14. LeetCode 76. Minimum Window Substring   
 
 第八部分（搜索）：   
-1.       
-2.     
-3.     
-4.      
-5.      
- 
+1.  LeetCode 127.Word Ladder（建graph+BFS+map形式邻接表）     
+2.  LeetCode 200.Number of Islands（DFS+BFS+mark标记）   
+3.  LeetCode 473.Matchsticks to Square（DFS+回溯+剪枝优化）   
+     
+第九部分（动态规划）：   
+1.  LeetCode 127.Word Ladder（建graph+BFS+map形式邻接表）     
+2.  LeetCode 200.Number of Islands（DFS+BFS+mark标记）   
+3.  LeetCode 473.Matchsticks to Square（DFS+回溯+剪枝优化）   
+     
 
 
 
