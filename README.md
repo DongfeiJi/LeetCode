@@ -99,9 +99,12 @@
 3.  LeetCode 473.Matchsticks to Square（DFS+回溯+剪枝优化）   
      
 第九部分（动态规划）：   
-1.  LeetCode 127.Word Ladder（建graph+BFS+map形式邻接表）     
-2.  LeetCode 200.Number of Islands（DFS+BFS+mark标记）   
-3.  LeetCode 473.Matchsticks to Square（DFS+回溯+剪枝优化）   
+1.  LeetCode 53.Maximum Subarray（dp中求最优）     
+2.  LeetCode 70.Climbing Stairs(回溯)（复杂度较高）   
+3.  LeetCode 70.Climbing Stairs（最原始dp斐波那契数列）   
+4.  LeetCode 120.Triangle（二维dp数组+优化边界思想+正反思考问题）     
+5.  LeetCode 198.House Robber（dp+注意下标越界问题）   
+6.  LeetCode 322.Coin Change（dp状态转移设计+离散状态转移）  
      
 
 
