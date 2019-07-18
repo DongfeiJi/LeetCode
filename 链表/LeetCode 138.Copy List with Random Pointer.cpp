@@ -25,17 +25,17 @@ public:
 	    	ptr = ptr->next;
 	    	i++;
 	    }
-	    node_vec.push_back(0);//用于省略处理列表最后面的NULL
-	    ptr = head;
-	    i = 0;
-	    while(ptr){//第二次遍历用于深拷贝，连接vec中的各种指针
-    		node_vec[i]->next = node_vec[i+1];//vec就是代表新链表，这是连接next指针
-    		if (ptr->random){//如果random指针存在
-    			int id = node_map[ptr->random];//id从map中查找映射过来，就是java中的get
-		    	node_vec[i]->random = node_vec[id];//在vec中将第i个序号与id连接
-		    }
-    		ptr = ptr->next;
-    		i++;
+	node_vec.push_back(0);//用于省略处理列表最后面的NULL
+	ptr = head;
+	i = 0;
+	while(ptr){//第二次遍历用于深拷贝，连接vec中的各种指针
+            node_vec[i]->next = node_vec[i+1];//vec就是代表新链表，这是连接next指针
+    	    if (ptr->random){//如果random指针存在
+    		int id = node_map[ptr->random];//id从map中查找映射过来，就是java中的get
+		node_vec[i]->random = node_vec[id];//在vec中将第i个序号与id连接
+	    }
+            ptr = ptr->next;
+    	    i++;
     	}
     	return node_vec[0];//vec就是深拷贝的新链表，指针连接好了
     }
