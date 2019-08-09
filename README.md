@@ -1,7 +1,8 @@
 # LeetCode/Cpp
 本人刷题记录在此，包含题意理解与算法思路，包含在Cpp文件内部注释，后续会持续更新。   
-有不懂的可以联系ji648513181，同时也欢迎志同道合的朋友一起合作更新。      
-大纲：   
+有不懂的可以联系ji648513181，同时也欢迎志同道合的朋友一起合作更新。   
+
+### LeetCode部分：
 第一部分（链表）：  
 1.  LeetCode 21.Merge Two Sorted Lists  
 2.  LeetCode 23.Merge k Sorted Lists(solve1)  
@@ -106,8 +107,7 @@
 5.  LeetCode 198.House Robber（dp+注意下标越界问题）   
 6.  LeetCode 322.Coin Change（dp状态转移设计+离散状态转移）  
      
-剑指Offer部分：  
-这66道题目进行了粗略的划分，整理如下：  
+### 剑指Offer部分：对66道题目进行了粗略的划分，整理如下：  
 
 链表(8道)：  
 剑指Offer（三）：从尾到头打印链表  
